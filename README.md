@@ -1,8 +1,13 @@
-<label for="cars">Choose a car:</label>
+* [ ] Is this correct?
+* [ ] incorrect
 
-<select name="cars" id="cars" multiple>
-  <option value="volvo">Volvo</option>
-  <option value="saab">Saab</option>
-  <option value="opel">Opel</option>
-  <option value="audi">Audi</option>
-</select>
+<details>
+  <summary>
+    ok
+  </summary>
+  
+  * [X] correct
+  * [ ] incorrect
+  
+</details>
+
