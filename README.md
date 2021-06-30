@@ -1,13 +1,35 @@
-* [ ] Is this correct?
-* [ ] incorrect
 
-<details>
-  <summary>
-    ok
-  </summary>
-  
-  * [X] correct
-  * [ ] incorrect
-  
-</details>
+
+ <hr /> 
+
+this is the prompt
+* [ ] ans1
+* [ ] ans2
+
+<details><summary><b>solution</b></summary>
+
+* [ ] ans1
+* [X] ans2
+
+this is the solution
+
+</details><hr /> 
+
+
+ <hr /> 
+
+ **QUESTION:** this is the prompt
+* [ ] ans1
+* [ ] ans2
+
+<details><summary><b>solution</b></summary>
+
+* [ ] ans1
+* [X] ans2
+
+this is the solution
+
+</details><hr /> 
+
+
 
